@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bGrJqMS30n7VRvQqrxmh1ghA/4xxd1PxQ14fqTsVBYUk4Ny+atr+iZke3IpwJc8RcgFfoTXuNjmFj9cM1GDSWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\together\\source\\repos\\AutoBackupMCMap\\AutoBackupMCMap\\AutoBackupMCMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\together\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.8\\microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

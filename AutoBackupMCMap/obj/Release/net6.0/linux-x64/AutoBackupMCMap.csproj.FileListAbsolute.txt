@@ -1,0 +1,15 @@
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\bin\Release\net6.0\linux-x64\AutoBackupMCMap
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\bin\Release\net6.0\linux-x64\AutoBackupMCMap.deps.json
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\bin\Release\net6.0\linux-x64\AutoBackupMCMap.runtimeconfig.json
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\bin\Release\net6.0\linux-x64\AutoBackupMCMap.dll
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\bin\Release\net6.0\linux-x64\AutoBackupMCMap.pdb
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\obj\Release\net6.0\linux-x64\AutoBackupMCMap.csproj.AssemblyReference.cache
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\obj\Release\net6.0\linux-x64\AutoBackupMCMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\obj\Release\net6.0\linux-x64\AutoBackupMCMap.AssemblyInfoInputs.cache
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\obj\Release\net6.0\linux-x64\AutoBackupMCMap.AssemblyInfo.cs
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\obj\Release\net6.0\linux-x64\AutoBackupMCMap.csproj.CoreCompileInputs.cache
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\obj\Release\net6.0\linux-x64\AutoBackupMCMap.dll
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\obj\Release\net6.0\linux-x64\refint\AutoBackupMCMap.dll
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\obj\Release\net6.0\linux-x64\AutoBackupMCMap.pdb
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\obj\Release\net6.0\linux-x64\AutoBackupMCMap.genruntimeconfig.cache
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\obj\Release\net6.0\linux-x64\ref\AutoBackupMCMap.dll

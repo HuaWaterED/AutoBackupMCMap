@@ -1,0 +1,2 @@
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\bin\Release\net6.0\publish\linux-x64\AutoBackupMCMap.pdb
+C:\Users\together\source\repos\AutoBackupMCMap\AutoBackupMCMap\bin\Release\net6.0\publish\linux-x64\AutoBackupMCMap
